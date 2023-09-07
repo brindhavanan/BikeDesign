@@ -2,9 +2,9 @@ package org.threewheeler;
 
 public class ThreeWheeler {
 	public void auto() {
-	System.out.println("Auto is used for travel 3 members");
+	System.out.println("Auto Registration number is TN 23 L 9873");
 	}		
 	public void Rikshaw(){
-	Sysytem.out.println("Rikshaw is used for travel 2 members");
+	System.out.println("Rikshaw is used for travel 2 members");
 	}
 }
