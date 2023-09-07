@@ -18,6 +18,7 @@ public class Vehicle {
 		
 		ThreeWheeler b = new ThreeWheeler();
 		b.auto();
+		b.Rikshaw();
 		
 		FourWheeler c = new FourWheeler();
 		c.car();
