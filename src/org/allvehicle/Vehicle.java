@@ -19,11 +19,13 @@ public class Vehicle {
 		ThreeWheeler b = new ThreeWheeler();
 		b.auto();
 		b.Rikshaw();
+		b.ElectricScooty();
 		
 		FourWheeler c = new FourWheeler();
 		c.car();
 		c.bus();
 		c.lorry();
+		c.train();
 	}
 	
 }
