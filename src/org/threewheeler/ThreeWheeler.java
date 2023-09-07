@@ -5,6 +5,10 @@ public class ThreeWheeler {
 	System.out.println("Auto Registration number is TN 23 L 9873");
 	}		
 	public void Rikshaw(){
-	System.out.println("Rikshaw is used for travel 2 members");
+	System.out.println("Rikshaw doesnt have registarion number");
+	}
+	public void ElectricScooty() {
+	System.out.println("ElectricScooty is used for Saving money");
+
 	}
 }

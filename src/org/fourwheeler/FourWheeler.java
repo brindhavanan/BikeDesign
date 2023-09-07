@@ -10,5 +10,8 @@ public class FourWheeler {
 	public void lorry() {
 	System.out.println("Lorry is used for goods tranportation");
 	}
+	public void train() {
+	System.out.println("Train is used for travel more than 1000 peoples");
+	}
 	
 }
